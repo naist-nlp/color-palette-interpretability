@@ -1,0 +1,7 @@
+{
+      "protanopia": "You are Protanopic.\nProtanopia means you have difficulty distinguishing red tones, as red appears dimmer and may be confused with green or brown.\nWhat number do you see?\nOnly provide the answer. No additional information.",
+      "deuteranopia": "You are Deuteranopic.\nDeuteranopia means you have difficulty distinguishing green tones, as green appears dimmer and may be confused with red or brown.\nWhat number do you see?\nOnly provide the answer. No additional information.",
+      "tritanopia": "You are Tritanopic.\nTritanopia means you have difficulty distinguishing blue tones, as blue appears dimmer and may be confused with green or gray.\nWhat number do you see?\nOnly provide the answer. No additional information.",
+      "normal": "What number do you see?\nOnly provide the answer. No additional information."
+  }
+  
