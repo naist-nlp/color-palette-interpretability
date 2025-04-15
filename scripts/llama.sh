@@ -26,6 +26,10 @@ declare -A QUANTIZE_TYPES=(
     ["llama"]="half"
 )
 
+# to yutaka
+#上記にモデル名と量子化全部まとめて入れれば一気に５つのモデル動かせる．["llama"]の部分は .pyのPrefixになってる！
+
+
 # Process each model and color vision type
 for MODEL_KEY in "${!MODELS[@]}"; do
     MODEL_NAME="${MODELS[$MODEL_KEY]}"
