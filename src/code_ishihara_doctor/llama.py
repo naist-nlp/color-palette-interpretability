@@ -4,7 +4,7 @@ import argparse
 import os
 from PIL import Image, UnidentifiedImageError
 from transformers import MllamaForConditionalGeneration, AutoTokenizer, AutoProcessor, BitsAndBytesConfig
-from utils import *
+
 import random
 import numpy as np
 
@@ -98,65 +98,9 @@ def process_images(input_data, image_dir, output_file, model, processor, prompt)
                 return_tensors="pt"
             ).to(model.device)
 
-            # logitlens
-            output_norm = model.language_model.model.norm
-            unembedding_matrix = model.language_model.lm_head.weight.T  # (vocab_size, model_dim) -> (model_dim, vocab_size)
-
-            output_saving = []
-            def forward_hook(module, inputs, output):
-                if isinstance(output, tuple):
-                    output = output[0]
-                output_saving.append(output)
-
-            hook_handles = []
-            for k, layer in enumerate(model.language_model.model.layers):
-                handle = layer.register_forward_hook(forward_hook)
-                hook_handles.append(handle)
-
-            with torch.no_grad():
-                _ = model(**inputs)
-
-            for handle in hook_handles:
-                handle.remove()
-            
-            layer_outputs = []
-            for layer, output in enumerate(output_saving):
-                if layer < len(output_saving) // 2:
-                    continue
-                print(f"Layer {layer+1} / {len(output_saving)}")
-                # anser_idxの位置を特定する (seq_len-1)
-                n_answer_idx = inputs["input_ids"].shape[1] - 1
-                n_answer_hidden = output[0, n_answer_idx]
-                n_answer_hidden = output_norm(n_answer_hidden)
-                n_answer_logits = n_answer_hidden @ unembedding_matrix
-                n_answer_logprob = torch.softmax(n_answer_logits, dim=-1)
-                n_answer_prob = torch.max(n_answer_logprob).item()
-                n_answer_token = tokenizer.decode(n_answer_logits.argmax().item())
-                print(f"Answer token: {n_answer_token}, prob: {n_answer_prob:.4f}")
-
-                n_pls_1_input_text = input_text + n_answer_token
-                n_pls_1_inputs = processor(
-                    image,
-                    n_pls_1_input_text,
-                    add_special_tokens=False,
-                    return_tensors="pt"
-                ).to(model.device)
-                with torch.no_grad():
-                  n_pls_1_answer_logits = model(**n_pls_1_inputs).logits
-                n_pls_1_answer_idx = n_pls_1_inputs["input_ids"].shape[1] - 1
-                n_pls_1_logprob = torch.softmax(n_pls_1_answer_logits, dim=-1)
-                n_pls_1_answer_prob = torch.max(n_pls_1_logprob).item()
-                n_pls_1_answer_token = tokenizer.decode(n_pls_1_answer_logits.argmax().item())
-                print(f"Next token: {n_pls_1_answer_token}, prob: {n_pls_1_answer_prob:.4f}")
-                answer = n_answer_token + n_pls_1_answer_token
-                print(f"Answer: {answer}")
-                layer_outputs.append({
-                  "layer": layer+1,
-                  "n_answer_token": answer,
-                  "n_answer_prob": n_answer_prob,
-                  "n_pls_1_answer_token": n_pls_1_answer_token,
-                  "n_pls_1_answer_prob": n_pls_1_answer_prob
-                })
+            # モデル出力の生成
+            output = model.generate(**inputs, max_new_tokens=50)
+            answer = processor.decode(output[0], skip_special_tokens=True)
 
         except (FileNotFoundError, UnidentifiedImageError):
             answer = "Image not found"
@@ -166,12 +110,6 @@ def process_images(input_data, image_dir, output_file, model, processor, prompt)
 
         # 出力結果を元データに追加
         item['model_out'] = answer
-        item['layer_outputs'] = layer_outputs
-        logitlens_dir = f'/cl/home2/shintaro/color-palette-interpretability/logitlens.word.llama'
-        os.makedirs(logitlens_dir, exist_ok=True)
-        logitlens_save_file = os.path.join(logitlens_dir, f"{os.path.splitext(os.path.basename(img_path))[0]}_logitlens.png")
-        visualize_logitlens_from_item(item, logitlens_save_file)
-        item['logitlens'] = logitlens_save_file
         output_data.append(item)
 
     # すべての出力結果をファイルに保存
