@@ -1,0 +1,157 @@
+[
+    {
+        "plate_number": 1,
+        "image_path": "Ishihara-Plate-01-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "12",
+            "protanopia": "12",
+            "deuteranopia": "12",
+            "tritanopia": "12"
+        },
+        "model_out": "",
+        "layer_outputs": [
+            {
+                "layer": 21,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.189208984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 22,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.2890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.10888671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.0927734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "numbers",
+                "n_answer_prob": 0.1458740234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "numbers",
+                "n_answer_prob": 0.19873046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "numbers",
+                "n_answer_prob": 0.416748046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.58642578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 29,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.49951171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 30,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.4638671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 31,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.72265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 32,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.7431640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 33,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.830078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 34,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.59326171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 35,
+                "n_answer_token": "twelve",
+                "n_answer_prob": 0.34033203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 36,
+                "n_answer_token": "",
+                "n_answer_prob": 0.6953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 37,
+                "n_answer_token": "",
+                "n_answer_prob": 0.78955078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 38,
+                "n_answer_token": "",
+                "n_answer_prob": 0.99365234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 39,
+                "n_answer_token": "",
+                "n_answer_prob": 0.99853515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            },
+            {
+                "layer": 40,
+                "n_answer_token": "",
+                "n_answer_prob": 0.98974609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9952911138534546
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.llava/Ishihara-Plate-01-38_logitlens.normal.png"
+    }
+]
