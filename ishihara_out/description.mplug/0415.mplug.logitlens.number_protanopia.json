@@ -1,0 +1,4296 @@
+[
+    {
+        "plate_number": 1,
+        "image_path": "Ishihara-Plate-01-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "12",
+            "protanopia": "12",
+            "deuteranopia": "12",
+            "tritanopia": "12"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0372314453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.059661865234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.017852783203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.057647705078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.04046630859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.01256561279296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.006191253662109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 22,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.01337432861328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0143585205078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.00914764404296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.501953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.83154296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.99951171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.966796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-01-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 2,
+        "image_path": "Ishihara-Plate-02-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "8",
+            "protanopia": "3",
+            "deuteranopia": "3",
+            "tritanopia": "8"
+        },
+        "model_out": "8",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.048675537109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0738525390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0282440185546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0631103515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0187835693359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.00727081298828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "#ab",
+                "n_answer_prob": 0.013671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.01763916015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.00701141357421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.0026454925537109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999955892562866
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "8",
+                "n_answer_prob": 0.93701171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "8",
+                "n_answer_prob": 0.94873046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "8",
+                "n_answer_prob": 1.0,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "8",
+                "n_answer_prob": 0.96435546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-02-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 3,
+        "image_path": "Ishihara-Plate-03-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "6",
+            "protanopia": "5",
+            "deuteranopia": "5",
+            "tritanopia": "6"
+        },
+        "model_out": "6",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.045562744140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.05841064453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.020904541015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1243896484375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.033447265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.010345458984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "#ab",
+                "n_answer_prob": 0.0079498291015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.01410675048828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.003681182861328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " ",
+                "n_answer_prob": 0.0055694580078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.68896484375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.919921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "6",
+                "n_answer_prob": 1.0,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.95947265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-03-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 4,
+        "image_path": "Ishihara-Plate-04-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "29",
+            "protanopia": "70",
+            "deuteranopia": "70",
+            "tritanopia": "29"
+        },
+        "model_out": "2",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.055084228515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07562255859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0147857666015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.08502197265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.04937744140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.01532745361328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": " RaycastHit",
+                "n_answer_prob": 0.00882720947265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.008087158203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.00809478759765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " ",
+                "n_answer_prob": 0.006580352783203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.04400634765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "2",
+                "n_answer_prob": 1.0,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.98681640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-04-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 5,
+        "image_path": "Ishihara-Plate-05-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "57",
+            "protanopia": "35",
+            "deuteranopia": "35",
+            "tritanopia": "57"
+        },
+        "model_out": "3",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0633544921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.08050537109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0254974365234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.11358642578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.043121337890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.01229095458984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "#ab",
+                "n_answer_prob": 0.016876220703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.0187835693359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.004634857177734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.02197265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.0153350830078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.038360595703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.6650390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.60107421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-05-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 6,
+        "image_path": "Ishihara-Plate-06-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "5",
+            "protanopia": "2",
+            "deuteranopia": "2",
+            "tritanopia": "5"
+        },
+        "model_out": "5",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.053863525390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0653076171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.050933837890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.164306640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.08441162109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.01158905029296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "\r\n\n",
+                "n_answer_prob": 0.0248260498046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.0181884765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "名列前",
+                "n_answer_prob": 0.0055084228515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "Eye",
+                "n_answer_prob": 0.0047760009765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "5",
+                "n_answer_prob": 0.052764892578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "5",
+                "n_answer_prob": 0.87353515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "5",
+                "n_answer_prob": 0.9921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "5",
+                "n_answer_prob": 0.5849609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-06-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 7,
+        "image_path": "Ishihara-Plate-07-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "3",
+            "protanopia": "5",
+            "deuteranopia": "5",
+            "tritanopia": "3"
+        },
+        "model_out": "3",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.036529541015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.042327880859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.023406982421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.10882568359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0738525390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.01194000244140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": ",proto",
+                "n_answer_prob": 0.01201629638671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.0156707763671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.005260467529296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "Eye",
+                "n_answer_prob": 0.0108489990234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.330810546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.4619140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.99853515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.86328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-07-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 8,
+        "image_path": "Ishihara-Plate-08-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "15",
+            "protanopia": "17",
+            "deuteranopia": "17",
+            "tritanopia": "15"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.057586669921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.068359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.036285400390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1417236328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0775146484375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.0188140869140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.016693115234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.024749755859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.005588531494140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "Eye",
+                "n_answer_prob": 0.01070404052734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "urch",
+                "n_answer_prob": 0.038177490234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0233154296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.978515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.658203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-08-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 9,
+        "image_path": "Ishihara-Plate-09-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "74",
+            "protanopia": "21",
+            "deuteranopia": "21",
+            "tritanopia": "74"
+        },
+        "model_out": "2",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06256103515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07659912109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.048583984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.16455078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.115966796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.0188751220703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": " RaycastHit",
+                "n_answer_prob": 0.0173492431640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.0191497802734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " '%\"",
+                "n_answer_prob": 0.006927490234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.01212310791015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": ":green",
+                "n_answer_prob": 0.009490966796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "4",
+                "n_answer_prob": 0.0711669921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.90185546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.53076171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-09-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 10,
+        "image_path": "Ishihara-Plate-10-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "2",
+            "protanopia": "Most people don’t see anything or see something wrong",
+            "deuteranopia": "Most people don’t see anything or see something wrong",
+            "tritanopia": "2"
+        },
+        "model_out": "9",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.048583984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07061767578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.048583984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1346435546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06787109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.01233673095703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "\r\n\n",
+                "n_answer_prob": 0.016998291015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.0299224853515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999998807907104
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " '%\"",
+                "n_answer_prob": 0.00864410400390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.0105133056640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.0260162353515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.0994873046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.396728515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-10-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 11,
+        "image_path": "Ishihara-Plate-11-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "6",
+            "protanopia": "Most people don’t see anything or see something wrong",
+            "deuteranopia": "Most people don’t see anything or see something wrong",
+            "tritanopia": "6"
+        },
+        "model_out": "6",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0286407470703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.038909912109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0182952880859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07781982421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.043853759765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": ".googlecode",
+                "n_answer_prob": 0.01617431640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "\r\n\n",
+                "n_answer_prob": 0.0251312255859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.0225982666015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " CreateTable",
+                "n_answer_prob": 0.0081329345703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999960660934448
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " '%\"",
+                "n_answer_prob": 0.00734710693359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.0848388671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.28564453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.9931640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.64794921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-11-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 12,
+        "image_path": "Ishihara-Plate-12-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "97",
+            "protanopia": "Most people don’t see anything or see something wrong",
+            "deuteranopia": "Most people don’t see anything or see something wrong",
+            "tritanopia": "97"
+        },
+        "model_out": "9",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.049468994140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0650634765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.03692626953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0997314453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06573486328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.013580322265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": ":black",
+                "n_answer_prob": 0.0155181884765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.01477813720703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999998807907104
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " CreateTable",
+                "n_answer_prob": 0.008544921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999974966049194
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.033660888671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.297119140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.65576171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.994140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.7802734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-12-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 13,
+        "image_path": "Ishihara-Plate-13-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "45",
+            "protanopia": "Most people don’t see anything or see something wrong",
+            "deuteranopia": "Most people don’t see anything or see something wrong",
+            "tritanopia": "45"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.056488037109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.072509765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.056182861328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.11688232421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0828857421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.0179443359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.999996542930603
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "\r\n\n",
+                "n_answer_prob": 0.029022216796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.0260162353515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "婧",
+                "n_answer_prob": 0.013336181640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " '%\"",
+                "n_answer_prob": 0.010528564453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "figcaption",
+                "n_answer_prob": 0.00974273681640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "8",
+                "n_answer_prob": 0.0264892578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.289306640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.2379150390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-13-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 14,
+        "image_path": "Ishihara-Plate-14-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "5",
+            "protanopia": "Most people don’t see anything or see something wrong",
+            "deuteranopia": "Most people don’t see anything or see something wrong",
+            "tritanopia": "5"
+        },
+        "model_out": "5",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06048583984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0718994140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.04266357421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1597900390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09234619140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.0117950439453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "\r\n\n",
+                "n_answer_prob": 0.019073486328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.019866943359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " '%\"",
+                "n_answer_prob": 0.00589752197265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.0285491943359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "5",
+                "n_answer_prob": 0.015899658203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "5",
+                "n_answer_prob": 0.427001953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "5",
+                "n_answer_prob": 0.9580078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "5",
+                "n_answer_prob": 0.5478515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-14-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 15,
+        "image_path": "Ishihara-Plate-15-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "7",
+            "protanopia": "Most people don’t see anything or see something wrong",
+            "deuteranopia": "Most people don’t see anything or see something wrong",
+            "tritanopia": "7"
+        },
+        "model_out": "7",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.033782958984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.043426513671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0098724365234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0830078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.054962158203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.01108551025390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "#ab",
+                "n_answer_prob": 0.01073455810546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.020721435546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.0069580078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "绿色",
+                "n_answer_prob": 0.0033588409423828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "7",
+                "n_answer_prob": 0.09063720703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "7",
+                "n_answer_prob": 0.82275390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "7",
+                "n_answer_prob": 0.99658203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "7",
+                "n_answer_prob": 0.86767578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-15-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 16,
+        "image_path": "Ishihara-Plate-16-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "16",
+            "protanopia": "Most people don’t see anything or see something wrong",
+            "deuteranopia": "Most people don’t see anything or see something wrong",
+            "tritanopia": "16"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.05096435546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.069580078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.047698974609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1676025390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0926513671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.01116943359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": " RaycastHit",
+                "n_answer_prob": 0.01457977294921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.022796630859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "婧",
+                "n_answer_prob": 0.007808685302734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.028167724609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "urch",
+                "n_answer_prob": 0.0479736328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.043243408203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.9599609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.67529296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-16-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 17,
+        "image_path": "Ishihara-Plate-17-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "73",
+            "protanopia": "Most people don’t see anything or see something wrong",
+            "deuteranopia": "Most people don’t see anything or see something wrong",
+            "tritanopia": "73"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.04144287109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0504150390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0181732177734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.099609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07135009765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.01222991943359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "@Setter",
+                "n_answer_prob": 0.010009765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.0188140869140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.0055694580078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.0615234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.011810302734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.037811279296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.75146484375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.495849609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-17-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 18,
+        "image_path": "Ishihara-Plate-18-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "Nothing",
+            "protanopia": "5",
+            "deuteranopia": "5",
+            "tritanopia": "Nothing"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07598876953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09783935546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06549072265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1932373046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1578369140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0318603515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "\r\n\n",
+                "n_answer_prob": 0.0294036865234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.029815673828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "数字",
+                "n_answer_prob": 0.0117645263671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.013397216796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.019683837890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.125244140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.36572265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.132568359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-18-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 19,
+        "image_path": "Ishihara-Plate-19-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "Nothing",
+            "protanopia": "2",
+            "deuteranopia": "2",
+            "tritanopia": "Nothing"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06988525390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09228515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06591796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1949462890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.16455078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.04656982421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.027984619140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.029449462890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.01480865478515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.0233306884765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.031036376953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.1810302734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.295166015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.135498046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-19-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 20,
+        "image_path": "Ishihara-Plate-20-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "Nothing",
+            "protanopia": "45",
+            "deuteranopia": "45",
+            "tritanopia": "Nothing"
+        },
+        "model_out": "9",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0576171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07977294921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.05389404296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.163330078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.12396240234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.0239105224609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999957084655762
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "\r\n\n",
+                "n_answer_prob": 0.0286102294921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.0269775390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "婧",
+                "n_answer_prob": 0.00879669189453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.0095062255859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999957084655762
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.01447296142578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.09124755859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.2315673828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.138427734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-20-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 21,
+        "image_path": "Ishihara-Plate-21-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "Nothing",
+            "protanopia": "73",
+            "deuteranopia": "73",
+            "tritanopia": "Nothing"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0750732421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0894775390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06842041015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.199951171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1593017578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.039825439453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.030609130859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999991655349731
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.029632568359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "数字",
+                "n_answer_prob": 0.01248931884765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.0171661376953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.0209503173828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.14794921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.257080078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1632080078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-21-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 22,
+        "image_path": "Ishihara-Plate-22-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "26",
+            "protanopia": "6",
+            "deuteranopia": "2",
+            "tritanopia": "26"
+        },
+        "model_out": "2",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.05523681640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09393310546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.056365966796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1258544921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06005859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.01410675048828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "@Setter",
+                "n_answer_prob": 0.011016845703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.0213623046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " CreateTable",
+                "n_answer_prob": 0.00699615478515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999995231628418
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.0267181396484375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.0170440673828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.0216064453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.98291015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.69970703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-22-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 23,
+        "image_path": "Ishihara-Plate-23-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "42",
+            "protanopia": "2",
+            "deuteranopia": "4",
+            "tritanopia": "42"
+        },
+        "model_out": "4",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.056121826171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07354736328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0419921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.123046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.037628173828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999903440475464
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.0127105712890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999903440475464
+            },
+            {
+                "layer": 21,
+                "n_answer_token": " RaycastHit",
+                "n_answer_prob": 0.01041412353515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.0220184326171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " domina",
+                "n_answer_prob": 0.00795745849609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.00782012939453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "4",
+                "n_answer_prob": 0.6728515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "4",
+                "n_answer_prob": 0.7119140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "4",
+                "n_answer_prob": 0.9970703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "4",
+                "n_answer_prob": 0.94921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-23-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 24,
+        "image_path": "Ishihara-Plate-24-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "35",
+            "protanopia": "5",
+            "deuteranopia": "3",
+            "tritanopia": "35"
+        },
+        "model_out": "3",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.04339599609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06439208984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0287628173828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06494140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.0285491943359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.02197265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": " RaycastHit",
+                "n_answer_prob": 0.011810302734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " contrario",
+                "n_answer_prob": 0.00867462158203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "��",
+                "n_answer_prob": 0.0036296844482421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.999971866607666
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.0109405517578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.123046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.29345703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.970703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.81884765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-24-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 25,
+        "image_path": "Ishihara-Plate-25-38.jpg",
+        "question": "What number do you see?",
+        "answers": {
+            "normal": "96",
+            "protanopia": "6",
+            "deuteranopia": "9",
+            "tritanopia": "96"
+        },
+        "model_out": "9",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.046295166015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0709228515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0136566162109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0633544921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.0253448486328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999947547912598
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.0084075927734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999620914459229
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "#ab",
+                "n_answer_prob": 0.007549285888671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.00878143310546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.003940582275390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.006687164306640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.78271484375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.97705078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.99853515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.9482421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-25-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 26,
+        "image_path": "Ishihara-Plate-26-38.jpg",
+        "question": "What line(s) do you see?",
+        "answers": {
+            "normal": "Purple and red lines",
+            "protanopia": "Only the purple line",
+            "deuteranopia": "Only the red line",
+            "tritanopia": "Purple and red lines"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09014892578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.10247802734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07861328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1412353515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.08441162109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.009796142578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999951124191284
+            },
+            {
+                "layer": 21,
+                "n_answer_token": ":black",
+                "n_answer_prob": 0.015777587890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.01153564453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999997615814209
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " CreateTable",
+                "n_answer_prob": 0.0125885009765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999977350234985
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.0301361083984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "urch",
+                "n_answer_prob": 0.01404571533203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.0281829833984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.279052734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.193603515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-26-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 27,
+        "image_path": "Ishihara-Plate-27-38.jpg",
+        "question": "What line(s) do you see?",
+        "answers": {
+            "normal": "Purple and red lines",
+            "protanopia": "Only the purple line",
+            "deuteranopia": "Only the red line",
+            "tritanopia": "Purple and red lines"
+        },
+        "model_out": "3",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0645751953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.084716796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.062225341796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.114501953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.058624267578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.00965118408203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": ":black",
+                "n_answer_prob": 0.0184173583984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.01131439208984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " CreateTable",
+                "n_answer_prob": 0.0129852294921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999994039535522
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " patterns",
+                "n_answer_prob": 0.029327392578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "urch",
+                "n_answer_prob": 0.0278472900390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.0288543701171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.382080078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.2049560546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-27-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 28,
+        "image_path": "Ishihara-Plate-28-38.jpg",
+        "question": "What do you see?",
+        "answers": {
+            "normal": "Nothing",
+            "protanopia": "A line",
+            "deuteranopia": "A line",
+            "tritanopia": "Nothing"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0980224609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1224365234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.072509765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.22412109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.2095947265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07049560546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.03424072265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.032379150390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.01090240478515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.0192108154296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.024505615234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.1634521484375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.3583984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1390380859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-28-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 29,
+        "image_path": "Ishihara-Plate-29-38.jpg",
+        "question": "What do you see?",
+        "answers": {
+            "normal": "Nothing",
+            "protanopia": "A line",
+            "deuteranopia": "A line",
+            "tritanopia": "Nothing"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.11968994140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06951904296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.2120361328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1844482421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.070556640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.036956787109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.035308837890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.0167083740234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.023345947265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.030029296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.2481689453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.322265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.147216796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-29-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 30,
+        "image_path": "Ishihara-Plate-30-38.jpg",
+        "question": "What do you see?",
+        "answers": {
+            "normal": "A blue-green line",
+            "protanopia": "Nothing",
+            "deuteranopia": "Nothing",
+            "tritanopia": "A blue-green line"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07891845703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.10040283203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.056549072265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1986083984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1995849609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.03289794921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.022735595703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999949932098389
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.03826904296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "婧",
+                "n_answer_prob": 0.01343536376953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.00746917724609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.0172882080078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.08380126953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.33056640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1773681640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-30-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 31,
+        "image_path": "Ishihara-Plate-31-38.jpg",
+        "question": "What do you see?",
+        "answers": {
+            "normal": "A blue-green line",
+            "protanopia": "Nothing",
+            "deuteranopia": "Nothing",
+            "tritanopia": "A blue-green line"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.062347412109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0819091796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.046112060546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.16650390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.10546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.01343536376953125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.01355743408203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.04034423828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "数字",
+                "n_answer_prob": 0.0080718994140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "Eye",
+                "n_answer_prob": 0.018096923828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.0143585205078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.0252685546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.1939697265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1279296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-31-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 32,
+        "image_path": "Ishihara-Plate-32-38.jpg",
+        "question": "What do you see?",
+        "answers": {
+            "normal": "An orange line",
+            "protanopia": "Nothing or a false line",
+            "deuteranopia": "Nothing or a false line",
+            "tritanopia": "An orange line"
+        },
+        "model_out": "2",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0667724609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09271240234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.05889892578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.145263671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.087890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.01248931884765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "\r\n\n",
+                "n_answer_prob": 0.018524169921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.048065185546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "数字",
+                "n_answer_prob": 0.01238250732421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "数字",
+                "n_answer_prob": 0.0094146728515625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.01222991943359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "7",
+                "n_answer_prob": 0.01611328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.38720703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.1834716796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-32-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 33,
+        "image_path": "Ishihara-Plate-33-38.jpg",
+        "question": "What do you see?",
+        "answers": {
+            "normal": "An orange line",
+            "protanopia": "Nothing or a false line",
+            "deuteranopia": "Nothing or a false line",
+            "tritanopia": "An orange line"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.059814453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09210205078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.054534912109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1597900390625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.01541900634765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999997615814209
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "\r\n\n",
+                "n_answer_prob": 0.015960693359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.037872314453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "婧",
+                "n_answer_prob": 0.01141357421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.01444244384765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.01381683349609375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.0222015380859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.282958984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.173828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-33-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 34,
+        "image_path": "Ishihara-Plate-34-38.jpg",
+        "question": "What line(s) do you see?",
+        "answers": {
+            "normal": "Blue-green and yellow-green lines",
+            "protanopia": "Only red-green and violet lines",
+            "deuteranopia": "Only red-green and violet lines",
+            "tritanopia": "Blue-green and yellow-green lines"
+        },
+        "model_out": "3",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.052093505859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.057830810546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.041259765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.137939453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.11822509765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.021636962890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999936819076538
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "\r\n\n",
+                "n_answer_prob": 0.0242156982421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.0265655517578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "婧",
+                "n_answer_prob": 0.0125732421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.0077056884765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999936819076538
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.01256561279296875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.1407470703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.68115234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.2138671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-34-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 35,
+        "image_path": "Ishihara-Plate-35-38.jpg",
+        "question": "What line(s) do you see?",
+        "answers": {
+            "normal": "Blue-green and yellow-green lines",
+            "protanopia": "Only blue-green and violet lines",
+            "deuteranopia": "Only blue-green and violet lines",
+            "tritanopia": "Blue-green and yellow-green lines"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.068359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0762939453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0528564453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.163330078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.1121826171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.01152801513671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999992847442627
+            },
+            {
+                "layer": 21,
+                "n_answer_token": "年之久",
+                "n_answer_prob": 0.0160369873046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.035247802734375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": "婧",
+                "n_answer_prob": 0.01104736328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.019561767578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "9",
+                "n_answer_prob": 0.01071929931640625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.035064697265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.35546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.2064208984375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-35-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 36,
+        "image_path": "Ishihara-Plate-36-38.jpg",
+        "question": "What line(s) do you see?",
+        "answers": {
+            "normal": "Violet and orange lines",
+            "protanopia": "Blue-green and violet lines",
+            "deuteranopia": "Blue-green and violet lines",
+            "tritanopia": "Violet and orange lines"
+        },
+        "model_out": "8",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09716796875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.111572265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06793212890625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.0989990234375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.060577392578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": ":black",
+                "n_answer_prob": 0.007610321044921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 21,
+                "n_answer_token": ":black",
+                "n_answer_prob": 0.0202178955078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.0311737060546875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " CreateTable",
+                "n_answer_prob": 0.0241241455078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.999998927116394
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.0166778564453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": " vision",
+                "n_answer_prob": 0.095703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "8",
+                "n_answer_prob": 0.08203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "8",
+                "n_answer_prob": 0.82421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "8",
+                "n_answer_prob": 0.439697265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-36-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 37,
+        "image_path": "Ishihara-Plate-37-38.jpg",
+        "question": "What line(s) do you see?",
+        "answers": {
+            "normal": "Violet and orange lines",
+            "protanopia": "Blue-green and violet lines",
+            "deuteranopia": "Blue-green and violet lines",
+            "tritanopia": "Violet and orange lines"
+        },
+        "model_out": "2",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.054962158203125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.06451416015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.047607421875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.10003662109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.07110595703125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "条评论",
+                "n_answer_prob": 0.016265869140625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": " RaycastHit",
+                "n_answer_prob": 0.01544952392578125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.0211944580078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " CreateTable",
+                "n_answer_prob": 0.0161590576171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999963045120239
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " patterns",
+                "n_answer_prob": 0.01152801513671875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": "urch",
+                "n_answer_prob": 0.0168914794921875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "3",
+                "n_answer_prob": 0.09503173828125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.71875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "2",
+                "n_answer_prob": 0.38818359375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-37-38_logitlens.protanopia.png"
+    },
+    {
+        "plate_number": 38,
+        "image_path": "Ishihara-Plate-38-38.jpg",
+        "question": "What line(s) do you see?",
+        "answers": {
+            "normal": "A line",
+            "protanopia": "A line",
+            "deuteranopia": "A line",
+            "tritanopia": "A line"
+        },
+        "model_out": "1",
+        "layer_outputs": [
+            {
+                "layer": 15,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09637451171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 16,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09967041015625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 17,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.09814453125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 18,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.12042236328125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 19,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.060455322265625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 20,
+                "n_answer_token": "('');\n\n",
+                "n_answer_prob": 0.01227569580078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999210834503174
+            },
+            {
+                "layer": 21,
+                "n_answer_token": ":black",
+                "n_answer_prob": 0.019012451171875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 22,
+                "n_answer_token": " représ",
+                "n_answer_prob": 0.0258026123046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 23,
+                "n_answer_token": " CreateTable",
+                "n_answer_prob": 0.0290374755859375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 0.9999966621398926
+            },
+            {
+                "layer": 24,
+                "n_answer_token": " patterns",
+                "n_answer_prob": 0.01448822021484375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 25,
+                "n_answer_token": " answers",
+                "n_answer_prob": 0.010772705078125,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 26,
+                "n_answer_token": "6",
+                "n_answer_prob": 0.05291748046875,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 27,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.431884765625,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            },
+            {
+                "layer": 28,
+                "n_answer_token": "1",
+                "n_answer_prob": 0.284912109375,
+                "n_pls_1_answer_token": "",
+                "n_pls_1_answer_prob": 1.0
+            }
+        ],
+        "logitlens": "/cl/home2/shintaro/color-palette-interpretability/logitlens.number.description.mplug/Ishihara-Plate-38-38_logitlens.protanopia.png"
+    }
+]
