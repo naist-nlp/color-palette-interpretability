@@ -1,0 +1,534 @@
+[
+  {
+    "plate_number": 1,
+    "image_path": "Ishihara-Plate-01-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "12",
+      "protanopia": "12",
+      "deuteranopia": "12",
+      "tritanopia": "12"
+    },
+    "model_out": "12",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 2,
+    "image_path": "Ishihara-Plate-02-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "8",
+      "protanopia": "3",
+      "deuteranopia": "3",
+      "tritanopia": "8"
+    },
+    "model_out": "8",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 3,
+    "image_path": "Ishihara-Plate-03-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "6",
+      "protanopia": "5",
+      "deuteranopia": "5",
+      "tritanopia": "6"
+    },
+    "model_out": "6",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 4,
+    "image_path": "Ishihara-Plate-04-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "29",
+      "protanopia": "70",
+      "deuteranopia": "70",
+      "tritanopia": "29"
+    },
+    "model_out": "29",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 5,
+    "image_path": "Ishihara-Plate-05-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "57",
+      "protanopia": "35",
+      "deuteranopia": "35",
+      "tritanopia": "57"
+    },
+    "model_out": "57",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 6,
+    "image_path": "Ishihara-Plate-06-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "5",
+      "protanopia": "2",
+      "deuteranopia": "2",
+      "tritanopia": "5"
+    },
+    "model_out": "3",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 7,
+    "image_path": "Ishihara-Plate-07-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "3",
+      "protanopia": "5",
+      "deuteranopia": "5",
+      "tritanopia": "3"
+    },
+    "model_out": "8",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 8,
+    "image_path": "Ishihara-Plate-08-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "15",
+      "protanopia": "17",
+      "deuteranopia": "17",
+      "tritanopia": "15"
+    },
+    "model_out": "I cannot see the number.",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 9,
+    "image_path": "Ishihara-Plate-09-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "74",
+      "protanopia": "21",
+      "deuteranopia": "21",
+      "tritanopia": "74"
+    },
+    "model_out": "74",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 10,
+    "image_path": "Ishihara-Plate-10-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "2",
+      "protanopia": "Most people don’t see anything or see something wrong",
+      "deuteranopia": "Most people don’t see anything or see something wrong",
+      "tritanopia": "2"
+    },
+    "model_out": "2",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 11,
+    "image_path": "Ishihara-Plate-11-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "6",
+      "protanopia": "Most people don’t see anything or see something wrong",
+      "deuteranopia": "Most people don’t see anything or see something wrong",
+      "tritanopia": "6"
+    },
+    "model_out": "6",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 12,
+    "image_path": "Ishihara-Plate-12-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "97",
+      "protanopia": "Most people don’t see anything or see something wrong",
+      "deuteranopia": "Most people don’t see anything or see something wrong",
+      "tritanopia": "97"
+    },
+    "model_out": "97",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 13,
+    "image_path": "Ishihara-Plate-13-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "45",
+      "protanopia": "Most people don’t see anything or see something wrong",
+      "deuteranopia": "Most people don’t see anything or see something wrong",
+      "tritanopia": "45"
+    },
+    "model_out": "45",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 14,
+    "image_path": "Ishihara-Plate-14-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "5",
+      "protanopia": "Most people don’t see anything or see something wrong",
+      "deuteranopia": "Most people don’t see anything or see something wrong",
+      "tritanopia": "5"
+    },
+    "model_out": "3",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 15,
+    "image_path": "Ishihara-Plate-15-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "7",
+      "protanopia": "Most people don’t see anything or see something wrong",
+      "deuteranopia": "Most people don’t see anything or see something wrong",
+      "tritanopia": "7"
+    },
+    "model_out": "7",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 16,
+    "image_path": "Ishihara-Plate-16-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "16",
+      "protanopia": "Most people don’t see anything or see something wrong",
+      "deuteranopia": "Most people don’t see anything or see something wrong",
+      "tritanopia": "16"
+    },
+    "model_out": "16",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 17,
+    "image_path": "Ishihara-Plate-17-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "73",
+      "protanopia": "Most people don’t see anything or see something wrong",
+      "deuteranopia": "Most people don’t see anything or see something wrong",
+      "tritanopia": "73"
+    },
+    "model_out": "73",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 18,
+    "image_path": "Ishihara-Plate-18-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "Nothing",
+      "protanopia": "5",
+      "deuteranopia": "5",
+      "tritanopia": "Nothing"
+    },
+    "model_out": "74",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 19,
+    "image_path": "Ishihara-Plate-19-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "Nothing",
+      "protanopia": "2",
+      "deuteranopia": "2",
+      "tritanopia": "Nothing"
+    },
+    "model_out": "I cannot see the number.",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 20,
+    "image_path": "Ishihara-Plate-20-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "Nothing",
+      "protanopia": "45",
+      "deuteranopia": "45",
+      "tritanopia": "Nothing"
+    },
+    "model_out": "I cannot see the number.",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 21,
+    "image_path": "Ishihara-Plate-21-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "Nothing",
+      "protanopia": "73",
+      "deuteranopia": "73",
+      "tritanopia": "Nothing"
+    },
+    "model_out": "5",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 22,
+    "image_path": "Ishihara-Plate-22-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "26",
+      "protanopia": "6",
+      "deuteranopia": "2",
+      "tritanopia": "26"
+    },
+    "model_out": "93",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 23,
+    "image_path": "Ishihara-Plate-23-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "42",
+      "protanopia": "2",
+      "deuteranopia": "4",
+      "tritanopia": "42"
+    },
+    "model_out": "42",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 24,
+    "image_path": "Ishihara-Plate-24-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "35",
+      "protanopia": "5",
+      "deuteranopia": "3",
+      "tritanopia": "35"
+    },
+    "model_out": "35",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 25,
+    "image_path": "Ishihara-Plate-25-38.jpg",
+    "question": "What number do you see?",
+    "answers": {
+      "normal": "96",
+      "protanopia": "6",
+      "deuteranopia": "9",
+      "tritanopia": "96"
+    },
+    "model_out": "96",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 26,
+    "image_path": "Ishihara-Plate-26-38.jpg",
+    "question": "What line(s) do you see?",
+    "answers": {
+      "normal": "Purple and red lines",
+      "protanopia": "Only the purple line",
+      "deuteranopia": "Only the red line",
+      "tritanopia": "Purple and red lines"
+    },
+    "model_out": "42",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 27,
+    "image_path": "Ishihara-Plate-27-38.jpg",
+    "question": "What line(s) do you see?",
+    "answers": {
+      "normal": "Purple and red lines",
+      "protanopia": "Only the purple line",
+      "deuteranopia": "Only the red line",
+      "tritanopia": "Purple and red lines"
+    },
+    "model_out": "23",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 28,
+    "image_path": "Ishihara-Plate-28-38.jpg",
+    "question": "What do you see?",
+    "answers": {
+      "normal": "Nothing",
+      "protanopia": "A line",
+      "deuteranopia": "A line",
+      "tritanopia": "Nothing"
+    },
+    "model_out": "I cannot see the number.",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 29,
+    "image_path": "Ishihara-Plate-29-38.jpg",
+    "question": "What do you see?",
+    "answers": {
+      "normal": "Nothing",
+      "protanopia": "A line",
+      "deuteranopia": "A line",
+      "tritanopia": "Nothing"
+    },
+    "model_out": "74",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 30,
+    "image_path": "Ishihara-Plate-30-38.jpg",
+    "question": "What do you see?",
+    "answers": {
+      "normal": "A blue-green line",
+      "protanopia": "Nothing",
+      "deuteranopia": "Nothing",
+      "tritanopia": "A blue-green line"
+    },
+    "model_out": "3",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 31,
+    "image_path": "Ishihara-Plate-31-38.jpg",
+    "question": "What do you see?",
+    "answers": {
+      "normal": "A blue-green line",
+      "protanopia": "Nothing",
+      "deuteranopia": "Nothing",
+      "tritanopia": "A blue-green line"
+    },
+    "model_out": "I cannot see the number.",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 32,
+    "image_path": "Ishihara-Plate-32-38.jpg",
+    "question": "What do you see?",
+    "answers": {
+      "normal": "An orange line",
+      "protanopia": "Nothing or a false line",
+      "deuteranopia": "Nothing or a false line",
+      "tritanopia": "An orange line"
+    },
+    "model_out": "42",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 33,
+    "image_path": "Ishihara-Plate-33-38.jpg",
+    "question": "What do you see?",
+    "answers": {
+      "normal": "An orange line",
+      "protanopia": "Nothing or a false line",
+      "deuteranopia": "Nothing or a false line",
+      "tritanopia": "An orange line"
+    },
+    "model_out": "5",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 34,
+    "image_path": "Ishihara-Plate-34-38.jpg",
+    "question": "What line(s) do you see?",
+    "answers": {
+      "normal": "Blue-green and yellow-green lines",
+      "protanopia": "Only red-green and violet lines",
+      "deuteranopia": "Only red-green and violet lines",
+      "tritanopia": "Blue-green and yellow-green lines"
+    },
+    "model_out": "5",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 35,
+    "image_path": "Ishihara-Plate-35-38.jpg",
+    "question": "What line(s) do you see?",
+    "answers": {
+      "normal": "Blue-green and yellow-green lines",
+      "protanopia": "Only blue-green and violet lines",
+      "deuteranopia": "Only blue-green and violet lines",
+      "tritanopia": "Blue-green and yellow-green lines"
+    },
+    "model_out": "I cannot determine a number.",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 36,
+    "image_path": "Ishihara-Plate-36-38.jpg",
+    "question": "What line(s) do you see?",
+    "answers": {
+      "normal": "Violet and orange lines",
+      "protanopia": "Blue-green and violet lines",
+      "deuteranopia": "Blue-green and violet lines",
+      "tritanopia": "Violet and orange lines"
+    },
+    "model_out": "27",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 37,
+    "image_path": "Ishihara-Plate-37-38.jpg",
+    "question": "What line(s) do you see?",
+    "answers": {
+      "normal": "Violet and orange lines",
+      "protanopia": "Blue-green and violet lines",
+      "deuteranopia": "Blue-green and violet lines",
+      "tritanopia": "Violet and orange lines"
+    },
+    "model_out": "32",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  },
+  {
+    "plate_number": 38,
+    "image_path": "Ishihara-Plate-38-38.jpg",
+    "question": "What line(s) do you see?",
+    "answers": {
+      "normal": "A line",
+      "protanopia": "A line",
+      "deuteranopia": "A line",
+      "tritanopia": "A line"
+    },
+    "model_out": "I cannot distinguish the number.",
+    "system_prompt": "You are Deuteranopic.",
+    "user_prompt": "What number do you see?\nOnly provide the answer. No additional information."
+  }
+]

@@ -1,0 +1,4 @@
+{
+      "doctor_prompt_template": "When a person sees \"{task_number}\" in this Ishihara test plate, which types of color vision are possible?\nChoose all that apply from the following options.\n\nOptions:\n- Normal\n- Protanopia\n- Deuteranopia\n- Tritanopia\n\nPlease output your answer. \n\nOutput only the one word. Do not output anything else.",
+      "system_prompt": "Please respond the question which is inputted correctly."
+}
